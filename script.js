@@ -9,3 +9,9 @@ function sum(a,b){
 
 sum(varr,varr1);
 
+function multi(a,b){
+    console.log("product is ",a*b);
+};
+
+multi(varr,varr1);
+
