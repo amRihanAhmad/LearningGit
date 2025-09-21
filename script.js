@@ -20,4 +20,8 @@ function feature2(){
     console.log("Good night");
 };
 
+function bug(){
+    console.log("iM a bug nightmare for coders....");
+};
+
 
