@@ -16,4 +16,8 @@ function newFeature(){
 
 newFeature();
 
+function feature2(){
+    console.log("Good night");
+};
+
 
