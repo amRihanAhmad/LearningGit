@@ -1,0 +1,30 @@
+
+Git is a tracker
+
+go to cmd 
+
+git --version -> To check version
+git config --global user.name "Rihan Ahmad"
+git config --global user.email "Rihan@123.com"
+
+git config --list -> to see if user added or not
+
+
+don't allow to tracke all your pc just go to the specific folder and do the follwing.
+
+git init -> start the tracking
+
+on file if there is 'U' still untrack
+
+git add index.html ->  start tracking
+
+on file if there is 'A' not it is tracked.
+
+" if there is an error --fatal: not a git repository (or any of the parent directories): .git-- 
+folder is not initialized go to the folder and cmd run git init.
+
+- to track all files in the folder -- git add . 
+
+-- commit- git commit -m "my first commit" 
+
+
