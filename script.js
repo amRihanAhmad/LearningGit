@@ -9,3 +9,11 @@ function multi(a,b){
 };
 
 multi(varr,varr1);
+
+function newFeature(){
+    console.log("good morning form new branch");
+};
+
+newFeature();
+
+
