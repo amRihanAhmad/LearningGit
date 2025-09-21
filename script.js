@@ -24,4 +24,8 @@ function bug(){
     console.log("iM a bug nightmare for coders....");
 };
 
+function PaymentMethod(){
+    console.log("This is my payment method: ");
+}
+
 
